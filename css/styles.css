@@ -32,7 +32,6 @@ header h1 {
 
 .navbar {
   display: flex;
-  text-decoration: none;
   height: 30px;
   width: 100%;
   background-color: #f6e7cb;
@@ -41,6 +40,7 @@ header h1 {
 
 .navbar a {
   margin-left: 20px;
+  text-decoration: none;
 }
 
 .content {
